@@ -1,0 +1,90 @@
+body {
+  background: url("../images/background.jpg");
+  background-size: cover;
+  font-family: 'Proxima-Nova', 'Arial', sans-serif;
+  font-size: 120%;
+  color: #2E2726;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px; }
+  body img {
+    width: 100%; }
+
+a:link {
+  color: #ff7169; }
+
+a:visited {
+  color: #2E2726; }
+
+a:hover {
+  color: #E96B6C; }
+
+a:active {
+  color: #E49183; }
+
+header {
+  background-color: #292625;
+  padding: 20px;
+  text-align: center;
+  font-size: 45px;
+  color: #F0F0F2;
+}
+
+div.transbox {
+  margin: 0px;
+  background-color: #F0F0F2;
+  opacity: 0.85;
+  border: 1px solid #F0F0F2; }
+
+div.transbox p {
+  margin: 3%;
+  color: #000000; }
+
+h1 {
+  display: block;
+  font-size: 30px;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  padding-left: 40px;
+  margin-left: 0;
+  margin-right: 0; }
+
+h2 {
+  display: block;
+  font-size: 30px;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  padding-left: 40px;
+  margin-left: 0;
+  margin-right: 0; }
+
+.box {
+  float: right;
+  margin-right: 100px;
+  margin-left: 40px;
+  width: 500px;
+  height: 280px;
+  background-image: url("../images/meringue.png");
+  z-index: 1;
+  background-size: 100%;
+
+}
+
+h3 {
+  display: block;
+  text-decoration: underline;
+  font-size: 25px;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  padding-left: 40px;
+  margin-left: 0;
+  margin-right: 0; }
+
+footer {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  line-height: .5;
+  text-align: right;
+}
